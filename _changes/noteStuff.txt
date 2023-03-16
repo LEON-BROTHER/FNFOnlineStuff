@@ -1,0 +1,34 @@
+note splash purple 10, note splash A 10
+note splash blue 10, note splash B 10
+note splash green 10, note splash C 10
+note splash red 10, note splash D 10
+note splash purple 20, note splash A 20
+note splash blue 20, note splash B 20
+note splash green 20, note splash C 20
+note splash red 20, note splash D 20
+purple0, A0
+pruiple0, A0
+blue0, B0
+blueee0, B0
+green0, C0
+greennn0, C0
+red0, D0
+reddd0, D0
+purple hold piece0, A hold0
+pruple hold piece0, A hold0
+pruple hold end0, A tail0
+pruple hold end0, A tail0
+blue hold piece0, B hold0
+blue hold end0, B tail0
+green hold piece0, C hold0
+green hold end0, C tail0
+red hold piece0, D hold0
+red hold end0, D tail0
+left press0, A press0
+left confirm0, A confirm0
+down press0, B press0
+down confirm0, B confirm0
+up press0, C press0
+up confirm0, C confirm0
+right press0, D press0
+right confirm0, D confirm0
